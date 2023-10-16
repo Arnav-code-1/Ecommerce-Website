@@ -1,6 +1,6 @@
 # MERN E-COMMERCE WEBSITE
 
-Hi! My name is **Arnav Rastogi**, I have created this Ecommerce Website just to understand more about MERN stack programming.
+Hi! My name is **Arnav Rastogi**, I have created this Ecommerce Website to understand more about MERN stack programming.
 
 This has been used **Node**, **React**, **Express**, **MongoDB** 
 
