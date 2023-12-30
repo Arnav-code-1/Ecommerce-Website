@@ -1,4 +1,4 @@
-# MERN E-COMMERCE WEBSITE
+# EzShop
 
 Hi! My name is **Arnav Rastogi**, I have created this Ecommerce Website to understand more about MERN stack programming.
 
